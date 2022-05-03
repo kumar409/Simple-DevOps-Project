@@ -7,7 +7,9 @@ You can follow same procedure in the official  AWS document [Getting started wit
   - Install AWSCLI latest verison
   -  
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
 unzip awscliv2.zip
+
 sudo ./aws/install
 
 1. Setup kubectl   
